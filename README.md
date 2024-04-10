@@ -1,5 +1,8 @@
 Bienvenido a esta aplicación de streaming realizada a partir de la arquitectura de microservicios.
 
+A continuación tendrás un link para observar el funcionamiento de la aplicación y cómo inicializarla en tu propia máquina:
+https://www.youtube.com/watch?v=iu_p6qiauy4
+
 Las tecnologías utilizadas en este proyecto fueron:
 
 - Spring Boot

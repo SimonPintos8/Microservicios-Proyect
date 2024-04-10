@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/SimonPintos7/configurationsParcial
+          uri: https://github.com/SimonPintos8/configurations-Microservices.git

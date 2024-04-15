@@ -29,3 +29,6 @@ Y las dependencias que utilizamos en el pom de cada microservicio (varían depen
   - OpenFeign
     
 Se encuentran en https://start.spring.io/.
+
+Mi LinkedIn: 
+https://www.linkedin.com/in/sim%C3%B3n-pintos-alves-672265212/
